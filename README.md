@@ -98,14 +98,6 @@ Through this project, I learned:
 * Computer Vision fundamentals
 * Real-time object detection workflows
 
-## 🔮 Future Improvements
-
-* Support for both left and right hands
-* Gesture recognition system
-* Virtual mouse control
-* Air drawing canvas
-* Sign language recognition
-
 ## 👩‍💻 Author
 
 **Kritika Raghav**
