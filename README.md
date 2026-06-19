@@ -113,5 +113,5 @@ Through this project, I learned:
 B.Tech CSE (AI & Data Science)
 Poornima University, Jaipur
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/ykrtika6767
+LinkedIn: https://www.linkedin.com/in/kritika-raghav-741b63290/
